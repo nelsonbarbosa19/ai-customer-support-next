@@ -1,4 +1,4 @@
-# AI-Powered Customer Support Platform: (Next.js + Hybrid AI)
+# AI-Powered Customer Support Platform for internet banking: (Next.js + Hybrid AI)
 
 ## 1. Goals
 Real-time chat between customers and support agents (human + hybrid AI assistant).
